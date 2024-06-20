@@ -36,7 +36,7 @@ This project demonstrates the creation of a functional web-based calculator usin
 ## Contributors
 
 - Ashwini Sonawane
-  - Contact: ashwinisonawane@gmail.com
+  - Contact: ashwinisonawane9853@gmail.com
   - GitHub: [Profile](https://github.com/SonawaneAshwini)
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
