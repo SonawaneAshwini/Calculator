@@ -33,7 +33,8 @@ This project demonstrates the creation of a functional web-based calculator usin
 2.	MDN Web Docs - CSS
 3.	MDN Web Docs - JavaScript
 
-## Contributors
+## Contributors ✨
+
 
 - Ashwini Sonawane
   - Contact: ashwinisonawane9853@gmail.com
