@@ -1,11 +1,6 @@
 # Calculator
 
 
-![Screenshot (342)](https://github.com/SonawaneAshwini/Calculator/assets/172588428/53fa4fbb-c1ba-42ee-9caf-dd2d7475d08b)
-
-
-
-
 # Introduction
 The project is a simple yet functional web-based calculator. It features basic arithmetic operations and a dark mode toggle. The system consists of three main files: index.html for the structure, style.css for the styling, and script.js for the interactive functionality.
 
@@ -32,14 +27,5 @@ This project demonstrates the creation of a functional web-based calculator usin
 2.	MDN Web Docs - CSS
 3.	MDN Web Docs - JavaScript
 
-## Contributors ✨
-
-
-- Ashwini Sonawane
-  - Contact: ashwinisonawane9853@gmail.com
-  - GitHub: [Profile](https://github.com/SonawaneAshwini)
-- Shravan Dalavi
-  - Contact: shravandalavi137@gmail.com
-  - GitHub:[Profile]( https://github.com/ShravanDalavi)
 
 
